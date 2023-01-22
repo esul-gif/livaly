@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livaly/static/css/main.7d134408.css",
+    "main.js": "/livaly/static/js/main.f5ca2a15.js",
+    "static/js/787.7ae44289.chunk.js": "/livaly/static/js/787.7ae44289.chunk.js",
+    "index.html": "/livaly/index.html",
+    "main.7d134408.css.map": "/livaly/static/css/main.7d134408.css.map",
+    "main.f5ca2a15.js.map": "/livaly/static/js/main.f5ca2a15.js.map",
+    "787.7ae44289.chunk.js.map": "/livaly/static/js/787.7ae44289.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d134408.css",
+    "static/js/main.f5ca2a15.js"
+  ]
+}
